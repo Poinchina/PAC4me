@@ -1,10 +1,3 @@
-/**
- * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2019-03-02 00:41:53
- * GFWList Last-Modified: 2019-01-29 21:22:38
- * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
- */
-
 var proxy = 'PROXY 192.168.11.113:9667';
 var rules = [
     [
