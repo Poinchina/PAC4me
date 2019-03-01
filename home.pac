@@ -5,7 +5,7 @@
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
-var proxy = 'HTTPS 192.168.11.113:9667';
+var proxy = 'PROXY 192.168.11.113:9667';
 var rules = [
     [
         [], 
