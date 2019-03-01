@@ -4,7 +4,7 @@
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
 
-var wall_proxy = function(){ return "PROXY 192.168.11.113:9667"; };
+var wall_proxy = function(){ return "HTTPS 192.168.11.113:9667"; };
 var wall_v6_proxy = function(){ return "__PROXY__"; };
 
 var nowall_proxy = function(){ return direct; };
